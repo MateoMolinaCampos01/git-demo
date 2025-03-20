@@ -2,8 +2,4 @@
 
 This is the first file in this repo.
 
-## Ipsum Below
-
-TEIJGEITGPAGasvbmiogo otmogteto. etgetgarfar
-
-sfgetgegetg
+## Website Contents
